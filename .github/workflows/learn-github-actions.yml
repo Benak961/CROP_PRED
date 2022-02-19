@@ -1,5 +1,4 @@
-- name: Azure Login
-  uses: Azure/login@v1
+
 
 name: Build and deploy Python app to Azure Web App - crop-pred
 
